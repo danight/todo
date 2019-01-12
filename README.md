@@ -6,5 +6,5 @@
   * set bookmark
   * edit todo
 
-> nothing serious small practice.
+> nothing seriously small practice.
 ## [Demo](https://danight.github.io/projects/todo/production/index.html)
